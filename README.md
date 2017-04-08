@@ -2,6 +2,16 @@
 
 Project guidelines for the INDA project, based on the great https://github.com/macaullyjames/inda-project-guidelines with permission from @macaullyjames with minor modifications.
 
+# Table of Contents
+1. [Picking a project](#picking-a-project)
+2. [Choosing a stack](#choosing-a-stack)
+3. [Github all the things!](#github-all-the-things)
+4. [First steps](#first-steps)
+5. [Development guidelines](#development-guidelines)
+6. [Setup help](#setup-help)
+7. [Licensing](#licensing)
+8. [FAQ](#faq)
+
 ## Picking a project
 Picking a project is really easy: Think of a project you'd like to do and pick it. Just keep in mind that
 - You must work in pairs (preferrably within the same övning group).
@@ -80,3 +90,37 @@ Your source code is an original creative work and as such is protected under cop
 Of course, you could write your own software license, but licensing is hard and I'm guessing that you're not a lawyer either. Instead you should choose one of the industry standard licenses such as the MIT, Apache or GPL licenses, depending on how you want your code to be used. If you don't know which license to pick, [choosealicense.com](http://choosealicense.com) is a good place to start. Jeff Atwood's article [Pick a License, Any License](http://blog.codinghorror.com/pick-a-license-any-license/) over on the Coding Horror blog is a good read if you're still not sure.
 
 In summary: It's illegal for others to use your code without a license. Pick a license. Github makes this easy for you upon creating of a repository.
+
+## FAQ
+
+- Do we need to get a project approval from you? 
+
+Yes, this is because I need to determine if the project is extensive enough for the course. When opening the PR to https://github.com/mictab/g5-projects, please state what the project is about. I’ll then approve the PR and merge it when I’m satisfied that the project is enough work for this course.
+
+- Will the school provide us with software I need for the project if it costs?
+
+Probably not. Most stuff should be free to use though.
+
+- Can I work with someone outside of group 5?
+
+Yes *but* please try to find someone in your own group first. Otherwise everything just becomes logistically harder. Please see section “Team” here https://www.kth.se/social/course/DD1349/subgroup/vt-2016-projinda16-2/page/project-process/. You will need the approval of both me and the other student's assistant and then you'll be assigned either one of the palinda groups.
+
+- Will you help us with our project?
+
+Most likely, no. Maybe with some basic guidance and links, sure. I’ll try to if I can but I suspect you’ll all do very different things which I don’t know about.
+
+- What programming languages can I use?
+
+Any language that’s sane (no Brainfuck, LOLCODE etc.)
+
+- When will I know if I passed the course? 
+
+At the last exercise session. Not before that.
+
+- Can I extend something I’ve already built?
+
+If you clearly mark out a new component you wish to develop and integrate into the existing codebase, and if I deem it extensive enough, then yes.
+
+- If I want to build an iOS or Android application, will KTH provide me with a phone for the dev process?
+
+Not likely. Not likely at all.
