@@ -1,6 +1,6 @@
 # inda-project-guidelines
 
-Project guidelines for the INDA project, based on the great https://github.com/macaullyjames/inda-project-guidelines with permission from @macaullyjames with minor modifications.
+Project guidelines for the INDA project, based on the great https://github.com/macaullyjames/inda-project-guidelines with permission from [@macaullyjames](https://github.com/macaullyjames) with minor modifications.
 
 ## [Projinda instructions](https://www.kth.se/social/course/DD1349/subgroup/vt-2017-255/page/project-process-2/)
 
