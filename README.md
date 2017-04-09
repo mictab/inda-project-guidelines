@@ -2,7 +2,7 @@
 
 Project guidelines for the INDA project, based on the great https://github.com/macaullyjames/inda-project-guidelines with permission from @macaullyjames with minor modifications.
 
-## [Palinda instructions](https://www.kth.se/social/course/DD1349/subgroup/vt-2017-255/page/project-process-2/)
+## [Projinda instructions](https://www.kth.se/social/course/DD1349/subgroup/vt-2017-255/page/project-process-2/)
 
 ## [Add projects here](https://github.com/mictab/g5-projects)
 
